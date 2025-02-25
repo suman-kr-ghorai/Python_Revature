@@ -8,5 +8,5 @@ def count_vowels(sentence):
             count += 1
     return count
 
-sentence = "Hello"
+sentence = "Hell"
 print("Vowel count:", count_vowels(sentence))
