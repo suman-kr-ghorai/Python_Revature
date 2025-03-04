@@ -1,23 +1,6 @@
-2025-03-04 16:21:27,791 - INFO - Valid exp: 3+2
-2025-03-04 16:21:27,792 - INFO - Result  is 5.0
-2025-03-04 16:21:39,930 - INFO - Valid exp: 5+2(2+3)
-2025-03-04 16:24:47,651 - INFO - Exiting program.
-2025-03-04 16:25:11,538 - INFO - Valid exp: 5+2*(1+2)
-2025-03-04 16:25:11,539 - INFO - Result  is 11.0
-2025-03-04 16:25:18,148 - INFO - Exiting program.
-2025-03-04 16:25:54,494 - INFO - Valid exp: 5+2*(2*3/5)
-2025-03-04 16:25:54,495 - INFO - Result  is 7.4
-2025-03-04 16:26:00,226 - INFO - Exiting program.
-2025-03-04 16:28:11,380 - INFO - Valid exp: 5+2*8
-2025-03-04 16:28:11,381 - INFO - Result  is 21.0
-2025-03-04 16:28:23,836 - INFO - Valid exp: 5+2(2+3)
-2025-03-04 16:28:28,155 - INFO - Valid exp: 5+2*(2+3)
-2025-03-04 16:28:28,155 - INFO - Result  is 15.0
-2025-03-04 16:29:18,233 - ERROR - Invalid expression: quit
-2025-03-04 16:29:24,326 - ERROR - Invalid expression: hkgjgj
-2025-03-04 16:29:27,965 - INFO - Exiting program.
-2025-03-04 16:35:31,652 - INFO - Valid exp: 2+3*88
-2025-03-04 16:35:31,652 - INFO - Result  is 266.0
-2025-03-04 16:35:34,916 - INFO - Valid exp: 5+2*(2*3/5)
-2025-03-04 16:35:34,916 - INFO - Result  is 7.4
-2025-03-04 16:37:23,608 - INFO - Exiting program.
+2025-03-04 18:44:56,981 - INFO - Valid exp: 6/0
+2025-03-04 18:44:56,982 - WARNING - Error:division by zero not allowed
+2025-03-04 18:45:26,065 - INFO - Exiting program.
+2025-03-04 18:45:55,095 - INFO - Valid exp: 2+3()
+2025-03-04 18:45:55,096 - WARNING - Error:division by zero not allowed
+2025-03-04 18:46:15,299 - INFO - Exiting program.
